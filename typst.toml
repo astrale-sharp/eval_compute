@@ -1,0 +1,7 @@
+[package]
+name = "eval_compute"
+version = "0.1.0"
+authors = ["astrale-sharp-tgirl"]
+license = "MIT"
+description = "Package allowing you to present equation and their result at the same time."
+entrypoint = "lib.typ"
